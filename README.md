@@ -1,16 +1,14 @@
-![image](https://github.com/Mohamad-aminn/Mohamad-aminn/assets/133766498/25d18f24-0f3d-4995-bd2a-a0736e2056a2)<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7244A&background=7779FF00&width=435&lines=Mohamad+Amin+Nemat" alt="Typing SVG" /></a></div>
-<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanimation--832040099882468699%2F&psig=AOvVaw0yI-U75GnA1KpfHpCGKgXP&ust=1694802119097000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPimvoXcqoEDFQAAAAAdAAAAABBt" alt="amirhossein-dehghanazar" /></p>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=Hi%2C+I'm+Mohamad+Amin+Nemat;A+Frontend+Developer" alt="Typing SVG" /></a></div>
 
-## JavaScript Enthusiast | Frontend Wizard
-🌟 Welcome to my wild GitHub world! 🌟
+<p><img align="center" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="amirhossein-dehghanazar" /></p>
 
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=JavaScript+Enthusiast+%7C+Frontend+Wizard" alt="Typing SVG" /></a>
 ### Skills
 
-🚀 React | React Router DOM | Tailwind CSS | Bootstrap | Material-UI (MUI)
-🌐 HTML | CSS | JavaScript | TypeScript
-📦 npm | Yarn
-🔮 Always exploring new horizons in the coding universe
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%9A%80+React+%7C+React+Router+DOM+%7C+Tailwind+CSS+%7C+Bootstrap+%7C+Material-UI+(MUI)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%8C%90+HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%93%A6+npm+%7C+Yarn" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%94%AE+Always+exploring+new+horizons+in+the+coding+universe" alt="Typing SVG" /></a>
 ### About Me
 
 🧙‍♂️ I'm Mohamad Amin Nemat, a coding sorcerer with an insatiable hunger for innovation. My spells are powered by JavaScript, and I wield the might of React to craft enchanting user interfaces.
