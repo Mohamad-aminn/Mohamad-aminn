@@ -1,6 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Mohamad+Amin+Nemat" alt="Typing SVG" /></a>
-## JavaScript Enthusiast | Frontend Wizard
+![image](https://github.com/Mohamad-aminn/Mohamad-aminn/assets/133766498/25d18f24-0f3d-4995-bd2a-a0736e2056a2)<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7244A&background=7779FF00&width=435&lines=Mohamad+Amin+Nemat" alt="Typing SVG" /></a></div>
+<p><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanimation--832040099882468699%2F&psig=AOvVaw0yI-U75GnA1KpfHpCGKgXP&ust=1694802119097000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPimvoXcqoEDFQAAAAAdAAAAABBt" alt="amirhossein-dehghanazar" /></p>
 
+## JavaScript Enthusiast | Frontend Wizard
 🌟 Welcome to my wild GitHub world! 🌟
 
 ### Skills
