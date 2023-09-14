@@ -11,20 +11,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%94%AE+Always+exploring+new+horizons+in+the+coding+universe" alt="Typing SVG" /></a>
 ### About Me
 
-🧙‍♂️ I'm Mohamad Amin Nemat, a coding sorcerer with an insatiable hunger for innovation. My spells are powered by JavaScript, and I wield the might of React to craft enchanting user interfaces.
+# 💻 Tech Stack:
 
-🪄 With React Router DOM, I can navigate through different dimensions of web applications seamlessly. Tailwind CSS and Bootstrap are my trusted spellbooks for crafting beautiful, responsive designs. When I seek a touch of elegance, Material-UI (MUI) is my wand of choice.
-
-💡 I'm also fluent in the languages of the web - HTML and CSS. I've mastered the arcane arts of package management with npm and dabble in TypeScript for added sorcery.
-
-🌌 Join me on this mystical journey through the digital realm, and together, we'll create web experiences that defy imagination.
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Connect with Me
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-amin-nemat-717a58285) 
 
-🔮 [LinkedIn](https://www.linkedin.com/in/mohamad-amin-nemat/)
-🧙‍♂️ [Twitter](https://twitter.com/yourmagicaldev)
-💼 [Portfolio](https://www.magicalcoder.com)
-
-📧 Feel free to send your owl (email) to [mohamad.amin@example.com](mailto:mohamad.amin@example.com) for collaboration inquiries.
 
 🌟 Let's create magic together! 🌟
