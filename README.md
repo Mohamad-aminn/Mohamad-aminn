@@ -5,10 +5,10 @@
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=JavaScript+Enthusiast+%7C+Frontend+Wizard" alt="Typing SVG" /></a>
 ### Skills
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%9A%80+React+%7C+React+Router+DOM+%7C+Tailwind+CSS+%7C+Bootstrap+%7C+Material-UI+(MUI)" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%8C%90+HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%93%A6+npm+%7C+Yarn" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%94%AE+Always+exploring+new+horizons+in+the+coding+universe" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%9A%80+React+%7C+React+Router+DOM+%7C+Tailwind+CSS+%7C+Bootstrap+%7C+Material-UI+(MUI)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%8C%90+HTML+%7C+CSS+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%93%A6+npm+%7C+Yarn" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=F7F7F7&background=7779FF00&width=435&lines=%F0%9F%94%AE+Always+exploring+new+horizons+in+the+coding+universe" alt="Typing SVG" /></a>
 ### About Me
 
 🧙‍♂️ I'm Mohamad Amin Nemat, a coding sorcerer with an insatiable hunger for innovation. My spells are powered by JavaScript, and I wield the might of React to craft enchanting user interfaces.
